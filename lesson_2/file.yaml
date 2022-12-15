@@ -1,0 +1,7 @@
+dict_params:
+  ؋: 2
+  ₫: 3
+int_params: 1
+list_params:
+  - param_01
+  - param_02
