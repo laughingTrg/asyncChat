@@ -1,0 +1,34 @@
+2022-12-25 19:39:07,648 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:40:47,736 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:43:26,262 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:46:44,037 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:47:18,708 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:53:46,718 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-25 19:53:46,719 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:55:13,634 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-25 19:55:13,635 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:02:32,904 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:02:32,906 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:02:32,906 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:04:56,735 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:05:09,605 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:05:34,933 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:06:46,031 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:06:46,033 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:06:46,033 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:09:24,796 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:09:24,796 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:09:24,798 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:10:14,189 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:10:14,189 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:10:14,189 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:24:25,199 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2022-12-28 20:24:25,201 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2022-12-28 20:24:25,202 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:24:25,202 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51144), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2022-12-28 20:24:25,203 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:25:50,564 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2022-12-28 20:25:50,565 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2022-12-28 20:25:50,565 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:25:50,565 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51152), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2022-12-28 20:25:50,592 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
