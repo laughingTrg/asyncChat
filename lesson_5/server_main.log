@@ -1,0 +1,5 @@
+2022-12-25 19:47:18,708 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1671979638, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 56506) 
+2022-12-25 19:53:46,719 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1671980026, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 56523) 
+2022-12-25 19:55:13,634 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1671980113, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 56534) 
+2022-12-25 19:55:13,634 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-25 19:55:13,634 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
