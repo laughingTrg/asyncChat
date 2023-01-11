@@ -1,0 +1,232 @@
+2022-12-25 19:39:07,648 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:40:47,736 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:43:26,262 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:46:44,037 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:47:18,708 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:53:46,718 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-25 19:53:46,719 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-25 19:55:13,634 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-25 19:55:13,635 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:02:32,904 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:02:32,906 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:02:32,906 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:04:56,735 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:05:09,605 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:05:34,933 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:06:46,031 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:06:46,033 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:06:46,033 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:09:24,796 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:09:24,796 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:09:24,798 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:10:14,189 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:10:14,189 - INFO - data_client_jim - Функция send_presence_msg вызвана из функции main 
+2022-12-28 20:10:14,189 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:24:25,199 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2022-12-28 20:24:25,201 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2022-12-28 20:24:25,202 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:24:25,202 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51144), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2022-12-28 20:24:25,203 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2022-12-28 20:25:50,564 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2022-12-28 20:25:50,565 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2022-12-28 20:25:50,565 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2022-12-28 20:25:50,565 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 51152), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2022-12-28 20:25:50,592 - DEBUG - data_client_jim - Сообщение от сервера: {'response': 200, 'alert': 'OK'} длинной 2 байт 
+2023-01-02 18:11:01,861 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:11:01,864 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: listen 
+2023-01-02 18:11:01,865 - CRITICAL - data_client_jim - Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение. 
+2023-01-02 18:11:26,162 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:11:26,162 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: listen 
+2023-01-02 18:11:26,163 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-02 18:11:26,164 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-02 18:11:26,164 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-02 18:11:26,164 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59919), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:11:26,669 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-02 18:11:26,670 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:11:26,670 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-02 18:12:21,635 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:12:21,635 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: send 
+2023-01-02 18:12:21,637 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-02 18:12:21,637 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-02 18:12:21,637 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-02 18:12:21,638 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59924), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:12:22,144 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-02 18:12:22,145 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:12:22,145 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-02 18:12:34,158 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'time': 1672665154.15778, 'account_name': 'Guest', 'mess_text': 'Hello world!'} 
+2023-01-02 18:12:34,159 - INFO - wrappers - Функция create_message c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59924), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:12:34,219 - INFO - data_client_jim - Получено сообщение от пользователя Guest:
+Hello world! 
+2023-01-02 18:12:34,220 - INFO - wrappers - Функция message_from_server c параметрами({'action': 'message', 'sender': 'Guest', 'time': 1672665154.218679, 'mess_text': 'Hello world!'},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:14:57,431 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'time': 1672665297.431605, 'account_name': 'Guest', 'mess_text': 'Я тут! А ты?'} 
+2023-01-02 18:14:57,434 - INFO - wrappers - Функция create_message c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59924), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:14:57,520 - INFO - data_client_jim - Получено сообщение от пользователя Guest:
+Я тут! А ты? 
+2023-01-02 18:14:57,520 - INFO - wrappers - Функция message_from_server c параметрами({'action': 'message', 'sender': 'Guest', 'time': 1672665297.520036, 'mess_text': 'Я тут! А ты?'},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:17:04,044 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:17:04,044 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, режим работы: send 
+2023-01-02 18:17:04,046 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-02 18:17:04,046 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-02 18:17:04,046 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-02 18:17:04,047 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59933), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:17:04,552 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-02 18:17:04,553 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:17:04,553 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-02 18:17:10,544 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'time': 1672665430.544749, 'account_name': 'Guest', 'mess_text': 'you'} 
+2023-01-02 18:17:10,545 - INFO - wrappers - Функция create_message c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 59933), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:17:10,588 - INFO - data_client_jim - Получено сообщение от пользователя Guest:
+you 
+2023-01-02 18:17:10,588 - INFO - wrappers - Функция message_from_server c параметрами({'action': 'message', 'sender': 'Guest', 'time': 1672665430.587889, 'mess_text': 'you'},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-02 18:18:51,819 - CRITICAL - data_client_jim - Указан недопустимый режим работы what, допустимые режимы: listen , send 
+2023-01-02 18:19:53,330 - CRITICAL - data_client_jim - Попытка запуска клиента с неподходящим номером порта: 19. Допустимы адреса с 1024 до 65535. Клиент завершается. 
+2023-01-05 11:35:14,627 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:35:27,633 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Johny 
+2023-01-05 11:35:27,635 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-05 11:35:27,636 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-05 11:35:27,636 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-05 11:35:27,637 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63021), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:35:28,139 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-05 11:35:28,139 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:35:28,140 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-05 11:35:28,140 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-05 11:35:50,845 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:35:56,293 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Mark 
+2023-01-05 11:35:56,295 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-05 11:35:56,296 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-05 11:35:56,296 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-05 11:35:56,297 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63022), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:35:56,797 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 400, 'error': 'Имя пользователя уже занято.'} 
+2023-01-05 11:35:56,798 - ERROR - data_client_jim - При установке соединения сервер вернул ошибку: 400 : Имя пользователя уже занято. 
+2023-01-05 11:36:07,682 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:36:14,492 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Barbara 
+2023-01-05 11:36:14,494 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-05 11:36:14,495 - INFO - wrappers - Функция create_presence_msg c параметрами(), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-05 11:36:14,495 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-05 11:36:14,496 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63023), raddr=('127.0.0.1', 7777)>,), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:36:14,996 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 400, 'error': 'Имя пользователя уже занято.'} 
+2023-01-05 11:36:14,996 - ERROR - data_client_jim - При установке соединения сервер вернул ошибку: 400 : Имя пользователя уже занято. 
+2023-01-05 11:39:15,124 - CRITICAL - data_client_jim - Потеряно соединение с сервером. 
+2023-01-05 11:39:15,128 - INFO - wrappers - Функция message_from_server c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63021), raddr=('127.0.0.1', 7777)>, 'Johny'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции run 
+2023-01-05 11:39:55,861 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:40:00,465 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Johny 
+2023-01-05 11:40:00,467 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-05 11:40:00,468 - INFO - wrappers - Функция create_presence_msg c параметрами('Johny',), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-05 11:40:00,468 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-05 11:40:00,469 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63026), raddr=('127.0.0.1', 7777)>, 'Johny'), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:40:00,972 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-05 11:40:00,973 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:40:00,973 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-05 11:40:00,973 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-05 11:40:15,601 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:40:18,386 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Mark 
+2023-01-05 11:40:18,387 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-05 11:40:18,388 - INFO - wrappers - Функция create_presence_msg c параметрами('Mark',), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-05 11:40:18,388 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-05 11:40:18,389 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63027), raddr=('127.0.0.1', 7777)>, 'Mark'), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:40:18,889 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-05 11:40:18,890 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:40:18,890 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-05 11:40:18,891 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-05 11:40:53,678 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'from': 'Mark', 'to': 'Johny', 'time': 1672900853.678082, 'mess_text': 'hi, my dear friend!'} 
+2023-01-05 11:40:53,678 - INFO - data_client_jim - Отправлено сообщение для пользователя Johny 
+2023-01-05 11:40:53,682 - INFO - wrappers - Функция create_message c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63027), raddr=('127.0.0.1', 7777)>, 'Mark'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции user_interactive 
+2023-01-05 11:40:54,097 - INFO - data_client_jim - Получено сообщение от пользователя Mark:
+hi, my dear friend! 
+2023-01-05 11:41:23,514 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'from': 'Johny', 'to': 'Mark', 'time': 1672900883.514195, 'mess_text': 'Здарова, как сам?'} 
+2023-01-05 11:41:23,514 - INFO - data_client_jim - Отправлено сообщение для пользователя Mark 
+2023-01-05 11:41:23,517 - INFO - wrappers - Функция create_message c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63026), raddr=('127.0.0.1', 7777)>, 'Johny'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции user_interactive 
+2023-01-05 11:41:23,781 - INFO - data_client_jim - Получено сообщение от пользователя Johny:
+Здарова, как сам? 
+2023-01-05 11:43:10,173 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'from': 'Mark', 'to': 'Gaby', 'time': 1672900990.1731122, 'mess_text': 'Yep!'} 
+2023-01-05 11:43:10,173 - INFO - data_client_jim - Отправлено сообщение для пользователя Gaby 
+2023-01-05 11:43:10,175 - INFO - wrappers - Функция create_message c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63027), raddr=('127.0.0.1', 7777)>, 'Mark'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции user_interactive 
+2023-01-05 11:44:10,996 - INFO - wrappers - Функция create_exit_message c параметрами('Mark',), {} была вызвана из функции self._bootstrap_inner().Вызов из функции user_interactive 
+2023-01-05 11:44:10,996 - INFO - data_client_jim - Завершение работы по команде пользователя. 
+2023-01-05 11:44:11,262 - CRITICAL - data_client_jim - Потеряно соединение с сервером. 
+2023-01-05 11:44:11,265 - INFO - wrappers - Функция message_from_server c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63027), raddr=('127.0.0.1', 7777)>, 'Mark'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции run 
+2023-01-05 11:44:11,502 - INFO - wrappers - Функция user_interactive c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63027), raddr=('127.0.0.1', 7777)>, 'Mark'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции run 
+2023-01-05 11:44:44,005 - INFO - wrappers - Функция create_exit_message c параметрами('Johny',), {} была вызвана из функции self._bootstrap_inner().Вызов из функции user_interactive 
+2023-01-05 11:44:44,005 - INFO - data_client_jim - Завершение работы по команде пользователя. 
+2023-01-05 11:44:44,453 - CRITICAL - data_client_jim - Потеряно соединение с сервером. 
+2023-01-05 11:44:44,454 - INFO - wrappers - Функция message_from_server c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63026), raddr=('127.0.0.1', 7777)>, 'Johny'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции run 
+2023-01-05 11:44:44,507 - INFO - wrappers - Функция user_interactive c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63026), raddr=('127.0.0.1', 7777)>, 'Johny'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции run 
+2023-01-05 11:44:49,785 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:44:57,116 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: fgf 
+2023-01-05 11:44:57,117 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-05 11:44:57,118 - INFO - wrappers - Функция create_presence_msg c параметрами('fgf',), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-05 11:44:57,119 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-05 11:44:57,119 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63034), raddr=('127.0.0.1', 7777)>, 'fgf'), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:44:57,618 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-05 11:44:57,619 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-05 11:44:57,619 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-05 11:44:57,620 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-05 11:45:00,135 - INFO - wrappers - Функция create_exit_message c параметрами('fgf',), {} была вызвана из функции self._bootstrap_inner().Вызов из функции user_interactive 
+2023-01-05 11:45:00,135 - INFO - data_client_jim - Завершение работы по команде пользователя. 
+2023-01-05 11:45:00,137 - CRITICAL - data_client_jim - Потеряно соединение с сервером. 
+2023-01-05 11:45:00,138 - INFO - wrappers - Функция message_from_server c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 63034), raddr=('127.0.0.1', 7777)>, 'fgf'), {} была вызвана из функции self._bootstrap_inner().Вызов из функции run 
+2023-01-09 18:04:13,352 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:04:13,353 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: test1 
+2023-01-09 18:04:13,353 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:04:13,353 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: test2 
+2023-01-09 18:04:13,354 - CRITICAL - data_client_jim - Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение. 
+2023-01-09 18:04:13,354 - CRITICAL - data_client_jim - Не удалось подключиться к серверу 127.0.0.1:7777, конечный компьютер отверг запрос на подключение. 
+2023-01-09 18:05:28,313 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,313 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Guest1 
+2023-01-09 18:05:28,313 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,313 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Guest2 
+2023-01-09 18:05:28,315 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-09 18:05:28,315 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-09 18:05:28,316 - INFO - wrappers - Функция create_presence_msg c параметрами('Guest2',), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-09 18:05:28,317 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-09 18:05:28,317 - INFO - wrappers - Функция create_presence_msg c параметрами('Guest1',), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-09 18:05:28,317 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-09 18:05:28,318 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52649), raddr=('127.0.0.1', 7777)>, 'Guest2'), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,318 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,318 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777, имя пользователя: Guest0 
+2023-01-09 18:05:28,318 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52648), raddr=('127.0.0.1', 7777)>, 'Guest1'), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,319 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-09 18:05:28,319 - INFO - wrappers - Функция get_client_msg_template c параметрами(), {} была вызвана из функции main().Вызов из функции create_presence_msg 
+2023-01-09 18:05:28,320 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,320 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-09 18:05:28,321 - INFO - wrappers - Функция create_presence_msg c параметрами('Guest0',), {} была вызвана из функции main().Вызов из функции send_presence_msg 
+2023-01-09 18:05:28,321 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-09 18:05:28,321 - INFO - data_client_jim - Сформирован запрос на присутствие и отправлен серверу 
+2023-01-09 18:05:28,321 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-09 18:05:28,322 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,322 - INFO - wrappers - Функция send_presence_msg c параметрами(<socket.socket fd=5, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52650), raddr=('127.0.0.1', 7777)>, 'Guest0'), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,322 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-09 18:05:28,322 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-09 18:05:28,824 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-09 18:05:28,825 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-09 18:05:28,826 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-09 18:05:28,826 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-11 16:46:57,393 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-11 16:47:02,324 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: John 
+2023-01-11 16:47:02,324 - DEBUG - data_client_jim - Сформировано presence сообщение для пользователя John 
+2023-01-11 16:47:02,325 - INFO - wrappers - Функция create_presence c параметрами('John',), {} была вызвана из функции main().Вызов из функции main 
+2023-01-11 16:47:02,342 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-11 16:47:02,343 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-11 16:47:02,343 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-11 16:47:02,344 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-11 16:47:26,970 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'from': 'John', 'to': 'Mark', 'time': 1673437646.970133, 'mess_text': 'q, bro'} 
+2023-01-11 16:47:26,970 - INFO - data_client_jim - Отправлено сообщение для пользователя Mark 
+2023-01-11 16:48:17,914 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-11 16:48:20,399 - INFO - data_client_jim - Запущен клиент с парамертами: адрес сервера: 127.0.0.1 , порт: 7777, имя пользователя: Mark 
+2023-01-11 16:48:20,400 - DEBUG - data_client_jim - Сформировано presence сообщение для пользователя Mark 
+2023-01-11 16:48:20,400 - INFO - wrappers - Функция create_presence c параметрами('Mark',), {} была вызвана из функции main().Вызов из функции main 
+2023-01-11 16:48:20,904 - DEBUG - data_client_jim - Разбор приветственного сообщения от сервера: {'response': 200} 
+2023-01-11 16:48:20,905 - INFO - wrappers - Функция process_response_ans c параметрами({'response': 200},), {} была вызвана из функции main().Вызов из функции main 
+2023-01-11 16:48:20,905 - INFO - data_client_jim - Установлено соединение с сервером. Ответ сервера: 200 : OK 
+2023-01-11 16:48:20,906 - DEBUG - data_client_jim - Запущены процессы 
+2023-01-11 16:48:33,123 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'from': 'Mark', 'to': 'John', 'time': 1673437713.123029, 'mess_text': 'hi mate'} 
+2023-01-11 16:48:33,123 - INFO - data_client_jim - Отправлено сообщение для пользователя John 
+2023-01-11 16:48:33,486 - INFO - data_client_jim - Получено сообщение от пользователя Mark:
+hi mate 
+2023-01-11 16:48:56,043 - DEBUG - data_client_jim - Сформирован словарь сообщения: {'action': 'message', 'from': 'John', 'to': 'Mark', 'time': 1673437736.043694, 'mess_text': 'q, bro'} 
+2023-01-11 16:48:56,044 - INFO - data_client_jim - Отправлено сообщение для пользователя Mark 
+2023-01-11 16:48:56,107 - INFO - data_client_jim - Получено сообщение от пользователя John:
+q, bro 
+2023-01-11 16:49:02,782 - INFO - data_client_jim - Завершение работы по команде пользователя. 
+2023-01-11 16:49:03,155 - CRITICAL - data_client_jim - Потеряно соединение с сервером. 
+2023-01-11 16:49:07,824 - INFO - data_client_jim - Завершение работы по команде пользователя. 
+2023-01-11 16:49:08,182 - CRITICAL - data_client_jim - Потеряно соединение с сервером. 
