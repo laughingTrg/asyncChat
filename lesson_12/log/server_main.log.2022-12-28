@@ -1,0 +1,31 @@
+2022-12-28 20:02:32,903 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672239752, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51048) 
+2022-12-28 20:02:32,906 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:02:32,906 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:04:56,735 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672239896, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51054) 
+2022-12-28 20:04:56,736 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:04:56,736 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:05:09,605 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672239909, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51055) 
+2022-12-28 20:05:09,605 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:05:09,605 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:05:34,933 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672239934, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51057) 
+2022-12-28 20:05:34,933 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:05:34,933 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:06:46,032 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672240006, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51068) 
+2022-12-28 20:06:46,032 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:06:46,032 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:09:24,796 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672240164, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51074) 
+2022-12-28 20:09:24,796 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:09:24,797 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:10:14,189 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672240214, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51075) 
+2022-12-28 20:10:14,189 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:10:14,189 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:10:14,189 - INFO - data_server_jim - Функция create_send_serv_msg вызвана из функции main 
+2022-12-28 20:24:25,202 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672241065, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51144) 
+2022-12-28 20:24:25,202 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:24:25,203 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:24:25,203 - INFO - data_server_jim - Функция create_send_serv_msg вызвана из функции main 
+2022-12-28 20:25:50,565 - DEBUG - data_server_jim - Сообщение: {'action': 'presence', 'time': 1672241150, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}} было отправлено клиентом: ('127.0.0.1', 51152) 
+2022-12-28 20:25:50,565 - INFO - data_server_jim - Разбираем полученное сообшение от клиента 
+2022-12-28 20:25:50,565 - INFO - data_server_jim - Получен корректный статус присутствия пользователя Guest 
+2022-12-28 20:25:50,592 - INFO - wrappers - Функция search_msg c параметрами({'action': 'presence', 'time': 1672241150, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}},), {} была вызвана из функции main().Вызов из функции create_send_serv_msg 
+2022-12-28 20:25:50,593 - INFO - wrappers - Функция create_send_serv_msg c параметрами(<socket.socket fd=6, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 51152)>, {'action': 'presence', 'time': 1672241150, 'type': 'status', 'user': {'account_name': 'Guest', 'status': "Yep, I'm here"}}), {} была вызвана из функции main().Вызов из функции main 
