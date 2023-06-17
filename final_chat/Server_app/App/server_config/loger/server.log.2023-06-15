@@ -1,0 +1,4 @@
+2023-06-15 21:16:07,165 INFO log_decorator.py Была вызвана функция run c параметрами (<server_config.runner.Server object at 0x102b69e50>,) , {}. Вызов из модуля server_config.runner
+2023-06-15 21:20:01,105 INFO log_decorator.py Была вызвана функция run c параметрами (<server_config.runner.Server object at 0x10acdfe80>,) , {}. Вызов из модуля server_config.runner
+2023-06-15 21:24:28,654 ERROR runner.py Соединение c <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 58056)> разорвано
+2023-06-15 21:24:29,659 ERROR runner.py Соединение c <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 58034)> разорвано

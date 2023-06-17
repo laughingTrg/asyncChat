@@ -1,0 +1,8 @@
+2023-06-17 12:48:20,204 INFO log_decorator.py Была вызвана функция run c параметрами (<server_config.runner.Server object at 0x106107e80>,) , {}. Вызов из модуля server_config.runner
+2023-06-17 12:51:51,715 ERROR runner.py Соединение c <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 61893)> разорвано
+2023-06-17 12:51:53,223 ERROR runner.py Соединение c <socket.socket fd=9, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 61889)> разорвано
+2023-06-17 12:53:42,597 INFO log_decorator.py Была вызвана функция run c параметрами (<server_config.runner.Server object at 0x104fdfe80>,) , {}. Вызов из модуля server_config.runner
+2023-06-17 12:56:19,403 ERROR runner.py Соединение c <socket.socket fd=10, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 61918)> разорвано
+2023-06-17 12:57:15,152 ERROR runner.py Соединение c <socket.socket fd=12, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 61924)> разорвано
+2023-06-17 12:57:16,161 ERROR runner.py Соединение c <socket.socket fd=11, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 8128), raddr=('127.0.0.1', 61919)> разорвано
+2023-06-17 13:03:48,264 INFO log_decorator.py Была вызвана функция run c параметрами (<server_config.runner.Server object at 0x10a917e80>,) , {}. Вызов из модуля server_config.runner

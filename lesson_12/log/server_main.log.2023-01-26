@@ -1,0 +1,27 @@
+2023-01-26 06:34:39,369 - INFO - wrappers - Функция arg_parser c параметрами(), {} была вызвана из функции main().Вызов из функции main 
+2023-01-26 06:34:39,370 - INFO - data_server_jim - Запущен сервер, порт для подключений: 7777 , адрес с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов. 
+2023-01-26 06:34:57,491 - INFO - data_server_jim - Установлено соедение с ПК ('127.0.0.1', 51443) 
+2023-01-26 06:34:57,996 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'presence', 'time': 1674696897.491329, 'user': {'account_name': 'Mark'}} 
+2023-01-26 06:34:58,505 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1674696898.004843, 'user_login': 'Mark'} 
+2023-01-26 06:35:26,182 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'add_contact', 'user_id': 'Jax', 'time': 1674696926.154297, 'user_login': 'Mark'} 
+2023-01-26 06:35:26,201 - INFO - data_server_jim - Клиент ('127.0.0.1', 51443) отключился от сервера. 
+2023-01-26 06:37:56,082 - INFO - data_server_jim - Установлено соедение с ПК ('127.0.0.1', 51463) 
+2023-01-26 06:37:56,586 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'presence', 'time': 1674697076.08268, 'user': {'account_name': 'Jax'}} 
+2023-01-26 06:37:56,596 - DEBUG - data_server_jim - Новый пользователь: Jax добавлен в базу данных 
+2023-01-26 06:37:57,099 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1674697076.5985322, 'user_login': 'Jax'} 
+2023-01-26 06:40:27,477 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'add_contact', 'user_id': 'Mark', 'time': 1674697227.103447, 'user_login': 'Jax'} 
+2023-01-26 06:44:20,520 - INFO - data_server_jim - Установлено соедение с ПК ('127.0.0.1', 51479) 
+2023-01-26 06:44:21,024 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'presence', 'time': 1674697460.520457, 'user': {'account_name': 'Mark'}} 
+2023-01-26 06:44:43,640 - INFO - data_server_jim - Установлено соедение с ПК ('127.0.0.1', 51480) 
+2023-01-26 06:44:44,145 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'presence', 'time': 1674697483.640262, 'user': {'account_name': 'John'}} 
+2023-01-26 06:44:44,653 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'get_contacts', 'time': 1674697484.1499588, 'user_login': 'John'} 
+2023-01-26 06:44:52,201 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'add_contact', 'user_id': 'Jax', 'time': 1674697492.1905322, 'user_login': 'John'} 
+2023-01-26 06:45:12,835 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'message', 'from': 'John', 'to': 'Jax', 'time': 1674697512.7861829, 'mess_text': 'q'} 
+2023-01-26 06:45:12,836 - INFO - data_server_jim - Отправлено сообщение пользователю Jax от пользователя John. 
+2023-01-26 06:45:44,029 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'add_contact', 'user_id': 'John', 'time': 1674697543.747893, 'user_login': 'Jax'} 
+2023-01-26 06:46:22,298 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'message', 'from': 'Jax', 'to': 'John', 'time': 1674697581.963283, 'mess_text': 'eee'} 
+2023-01-26 06:46:22,299 - INFO - data_server_jim - Отправлено сообщение пользователю John от пользователя Jax. 
+2023-01-26 06:46:40,917 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'exit', 'time': 1674697600.880245, 'account_name': 'John'} 
+2023-01-26 06:46:40,917 - INFO - data_server_jim - Клиент ('127.0.0.1', 51480) отключился от сервера. 
+2023-01-26 06:46:47,954 - DEBUG - data_server_jim - Разбор сообщения от клиента : {'action': 'exit', 'time': 1674697607.713855, 'account_name': 'Jax'} 
+2023-01-26 06:46:47,954 - INFO - data_server_jim - Клиент ('127.0.0.1', 51463) отключился от сервера. 
