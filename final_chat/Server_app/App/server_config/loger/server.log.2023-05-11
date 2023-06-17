@@ -1,0 +1,92 @@
+2023-05-09 19:08:58,809 ERROR runner.py timed out
+2023-05-09 19:08:59,311 ERROR runner.py timed out
+2023-05-09 19:08:59,812 ERROR runner.py timed out
+2023-05-09 19:09:00,313 ERROR runner.py timed out
+2023-05-09 19:09:00,815 ERROR runner.py timed out
+2023-05-09 19:09:01,316 ERROR runner.py timed out
+2023-05-09 19:09:01,817 ERROR runner.py timed out
+2023-05-09 19:09:02,318 ERROR runner.py timed out
+2023-05-09 19:09:02,819 ERROR runner.py timed out
+2023-05-09 19:09:03,320 ERROR runner.py timed out
+2023-05-09 19:09:03,821 ERROR runner.py timed out
+2023-05-09 19:09:04,322 ERROR runner.py timed out
+2023-05-09 19:09:04,823 ERROR runner.py timed out
+2023-05-09 19:09:05,324 ERROR runner.py timed out
+2023-05-09 19:09:05,825 ERROR runner.py timed out
+2023-05-09 19:09:06,327 ERROR runner.py timed out
+2023-05-09 19:09:06,828 ERROR runner.py timed out
+2023-05-09 19:09:07,329 ERROR runner.py timed out
+2023-05-09 19:09:07,830 ERROR runner.py timed out
+2023-05-09 19:09:08,331 ERROR runner.py timed out
+2023-05-09 19:09:08,832 ERROR runner.py timed out
+2023-05-09 19:09:09,333 ERROR runner.py timed out
+2023-05-09 19:09:09,834 ERROR runner.py timed out
+2023-05-09 19:09:10,335 ERROR runner.py timed out
+2023-05-09 19:09:10,836 ERROR runner.py timed out
+2023-05-09 19:09:11,336 ERROR runner.py timed out
+2023-05-09 19:09:11,837 ERROR runner.py timed out
+2023-05-09 19:09:12,339 ERROR runner.py timed out
+2023-05-09 19:09:12,840 ERROR runner.py timed out
+2023-05-09 19:09:13,341 ERROR runner.py timed out
+2023-05-09 19:09:13,842 ERROR runner.py timed out
+2023-05-09 19:09:14,343 ERROR runner.py timed out
+2023-05-09 19:09:14,844 ERROR runner.py timed out
+2023-05-09 19:09:15,345 ERROR runner.py timed out
+2023-05-09 19:09:15,846 ERROR runner.py timed out
+2023-05-09 19:09:16,347 ERROR runner.py timed out
+2023-05-09 19:09:16,848 ERROR runner.py timed out
+2023-05-09 19:09:17,349 ERROR runner.py timed out
+2023-05-09 19:09:17,855 ERROR runner.py timed out
+2023-05-09 19:09:18,359 ERROR runner.py timed out
+2023-05-09 19:09:18,872 ERROR runner.py timed out
+2023-05-09 19:09:19,372 ERROR runner.py timed out
+2023-05-09 19:09:19,873 ERROR runner.py timed out
+2023-05-09 19:09:20,374 ERROR runner.py timed out
+2023-05-09 19:23:59,278 ERROR runner.py [Errno 9] Bad file descriptor
+2023-05-09 19:27:17,653 ERROR runner.py [Errno 9] Bad file descriptor
+2023-05-09 21:05:13,587 ERROR runner.py [Errno 9] Bad file descriptor
+2023-05-09 21:06:07,372 ERROR runner.py [Errno 9] Bad file descriptor
+2023-05-09 21:53:56,006 ERROR runner.py [Errno 9] Bad file descriptor
+2023-05-09 21:54:18,856 ERROR runner.py [Errno 9] Bad file descriptor
+2023-05-09 22:02:44,714 ERROR runner.py timed out
+2023-05-09 22:02:45,215 ERROR runner.py timed out
+2023-05-09 22:02:45,716 ERROR runner.py timed out
+2023-05-09 22:02:46,217 ERROR runner.py timed out
+2023-05-09 22:02:46,721 ERROR runner.py timed out
+2023-05-09 22:02:47,229 ERROR runner.py timed out
+2023-05-09 22:02:47,730 ERROR runner.py timed out
+2023-05-09 22:02:48,231 ERROR runner.py timed out
+2023-05-09 22:02:48,732 ERROR runner.py timed out
+2023-05-09 22:02:49,236 ERROR runner.py timed out
+2023-05-09 22:02:49,737 ERROR runner.py timed out
+2023-05-09 22:02:50,238 ERROR runner.py timed out
+2023-05-09 22:02:50,739 ERROR runner.py timed out
+2023-05-09 22:02:51,240 ERROR runner.py timed out
+2023-05-10 21:09:38,537 ERROR runner.py Basedata error
+2023-05-10 21:09:44,147 ERROR runner.py timed out
+2023-05-10 21:10:38,443 ERROR runner.py Basedata error
+2023-05-10 21:10:44,025 ERROR runner.py timed out
+2023-05-10 21:12:51,225 ERROR runner.py Basedata error
+2023-05-10 21:13:01,031 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 18:51:04,554 ERROR runner.py Basedata error
+2023-05-11 18:51:22,839 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 18:51:39,782 ERROR runner.py Basedata error
+2023-05-11 18:51:50,777 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 18:54:00,481 ERROR runner.py Basedata error
+2023-05-11 18:54:07,460 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 18:55:40,093 ERROR runner.py Basedata error
+2023-05-11 18:55:49,343 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 18:57:12,732 ERROR runner.py Basedata error
+2023-05-11 18:57:19,002 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 18:59:35,206 ERROR runner.py Basedata error
+2023-05-11 18:59:41,300 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 19:00:34,547 ERROR runner.py Basedata error
+2023-05-11 19:00:39,951 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 19:01:48,853 ERROR runner.py Basedata error
+2023-05-11 19:01:54,537 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 19:02:46,951 ERROR runner.py Basedata error
+2023-05-11 19:02:58,850 ERROR runner.py Такого пользователя в чате нет
+2023-05-11 19:02:59,448 ERROR runner.py Expecting value: line 1 column 1 (char 0)
+2023-05-11 19:06:38,927 ERROR runner.py Basedata error
+2023-05-11 19:06:47,074 ERROR runner.py Такого пользователя в чате нет
+2023-05-11 19:07:13,434 ERROR runner.py Expecting value: line 1 column 1 (char 0)

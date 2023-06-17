@@ -1,0 +1,13 @@
+setup.py
+App/__init__.py
+App/client.py
+App/client_win.py
+App/src/__init__.py
+App/src/core/__init__.py
+App/src/core/get_app_arguments.py
+App/src/core/log_decorator.py
+App/src/core/message_processor.py
+GB_Chat_project_client.egg-info/PKG-INFO
+GB_Chat_project_client.egg-info/SOURCES.txt
+GB_Chat_project_client.egg-info/dependency_links.txt
+GB_Chat_project_client.egg-info/top_level.txt

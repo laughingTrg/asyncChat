@@ -1,0 +1,7 @@
+setup.py
+App/server.py
+App/server_win.py
+GB_Chat_project_server.egg-info/PKG-INFO
+GB_Chat_project_server.egg-info/SOURCES.txt
+GB_Chat_project_server.egg-info/dependency_links.txt
+GB_Chat_project_server.egg-info/top_level.txt
